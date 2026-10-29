@@ -1,0 +1,32 @@
+{
+  "source_observations": {
+    "feature_records": 28722,
+    "keyword_count": 572,
+    "title_count": 23875,
+    "price_min": 0.01,
+    "price_max": 128005.0,
+    "price_mean": 139.06574751061905,
+    "price_median": 32.1,
+    "displayed_payment_count_sum": 194891130,
+    "displayed_payment_count_median": 800.0,
+    "price_payment_pearson": -0.012327185696286772,
+    "rating_tag_1_count": 1012
+  },
+  "deduplicated_features": {
+    "feature_records": 28273,
+    "keyword_count": 572,
+    "title_count": 23875,
+    "price_min": 0.01,
+    "price_max": 128005.0,
+    "price_mean": 134.41169596434762,
+    "price_median": 32.0,
+    "displayed_payment_count_sum": 189495918,
+    "displayed_payment_count_median": 800,
+    "price_payment_pearson": -0.012197856938847831,
+    "rating_tag_1_count": 992
+  },
+  "units": {
+    "price": "CNY",
+    "payment_count": "platform display count, sometimes a lower bound"
+  }
+}

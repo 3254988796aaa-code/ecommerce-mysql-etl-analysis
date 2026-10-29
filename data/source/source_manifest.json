@@ -1,0 +1,37 @@
+{
+  "workbooks": [
+    {
+      "file": "最终版(1).xlsx",
+      "sha256": "edd31b4889761d9b54ab9a8bbbf74e16acbbfbb0f82e49d85d014a8b0cf5ba73",
+      "first_sheet_records": 28722
+    },
+    {
+      "file": "清洗后_付款人数已转换_新增评价标签.xlsx",
+      "sha256": "416bc0f6c034d547521f9a974477b7c48f13ff7138c0a0df653e83e16e01fe1d",
+      "first_sheet_records": 28722
+    },
+    {
+      "file": "0_processed_新增指数列.xlsx",
+      "sha256": "4ed3026b1c3997e0e7edb2cb18d439af5d9f657365e6af476515a9b9aeca52e2",
+      "first_sheet_records": 28722
+    },
+    {
+      "file": "产品名称的字数.xlsx",
+      "sha256": "82f9445dae261debe5e2d8f6c5245f00e1474ed03dd7508da9de0eb1564981b9",
+      "first_sheet_records": 28722
+    },
+    {
+      "file": "编码后的数据.xlsx",
+      "sha256": "f6b65d6c5520d3cf40ea8bc4de407190d5ca49478696d239dd6bc3aa8fb7ce1d",
+      "first_sheet_records": 28722
+    }
+  ],
+  "exported_records": 28722,
+  "final_feature_comparison_mismatches": {},
+  "reference_exact_duplicate_rows": 449,
+  "title_alignment_checked_records": 28722,
+  "index_alignment_note": "Index-only workbook has no product identifier; row order follows supplied stages and is checked against final features.",
+  "collection_method": "Octoparse, confirmed by project author",
+  "platform": "Taobao, as described in the reference report",
+  "collection_timestamp": "not available in supplied final-stage workbooks"
+}

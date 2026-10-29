@@ -1,0 +1,17 @@
+{
+  "mysql_version": "8.0.43",
+  "dataset_sha256": "2bf07894ee8ac578b64601c99b0fcce0ec19110dc30cedeee693e2aafb64b3b8",
+  "feature_records": 28273,
+  "represented_source_observations": 28722,
+  "keywords": 572,
+  "same_batch_loaded_twice": true,
+  "all_analysis_statements_executed": true,
+  "analysis_statement_result_counts": [
+    0,
+    1,
+    20,
+    1716,
+    5,
+    445
+  ]
+}

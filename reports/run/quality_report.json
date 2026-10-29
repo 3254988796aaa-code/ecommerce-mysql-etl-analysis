@@ -1,0 +1,24 @@
+{
+  "pipeline_version": 1,
+  "dataset_sha256": "2bf07894ee8ac578b64601c99b0fcce0ec19110dc30cedeee693e2aafb64b3b8",
+  "input_observations": 28722,
+  "valid_observations": 28722,
+  "rejected_observations": 0,
+  "unique_feature_records": 28273,
+  "redundant_feature_rows": 449,
+  "payment_lower_bound_source_rows": 21833,
+  "rejection_reasons": {},
+  "reference_mismatches": {},
+  "dedup_key": [
+    "keyword",
+    "product_name",
+    "repeat_customer_index",
+    "old_shop_index",
+    "product_name_length",
+    "location_tag",
+    "product_price",
+    "payment_count",
+    "rating_tag"
+  ],
+  "output_sha256": "1d3aab99fbd87f60f841fe6ffa392ebc9f812d61b2fb14e8def97f952273ef35"
+}
